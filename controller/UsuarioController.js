@@ -6,10 +6,12 @@ function abreAdd(req,res){
 function addSalva(req,res){
 
 }
-function listarTudo(req,res){}
-function listaComFiltro(req,res){}
-function abreEdt(req,res){}
-function salvaEdt(req,res){}
+function listarTudo(req,res){
+
+}
+function listaComFiltro(req,res);
+function abreEdt(req,res);
+function salvaEdt(req,res);
 function deletaDado(req,res){}
 
 module.exports = 
